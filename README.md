@@ -1,4 +1,3 @@
-# spam-sms-detection
 # 📩 SMS Spam Classifier
 
 A machine learning project to classify SMS messages as Spam or Not Spam using Logistic Regression and Streamlit.
